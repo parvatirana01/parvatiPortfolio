@@ -12,10 +12,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import bookstore from "./assets/images/projects/Screenshot 2025-04-03 150427.png";
-import somethingyouneed from "./assets/images/projects/Screenshot 2025-04-03 150245.png";
-import dreamnest from "./assets/images/projects/Screenshot 2025-04-03 171612.png";
-import person_project from "./assets/images/projects/person.png";
+import bookstore from "./assets/images/Projects/Screenshot-2025-04-03-150427.png";
+import somethingyouneed from "./assets/images/Projects/Screenshot-2025-04-03-150245.png";
+import dreamnest from "./assets/images/Projects/Screenshot-2025-04-03-171612.png";
+import person_project from "./assets/images/Projects/person.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
